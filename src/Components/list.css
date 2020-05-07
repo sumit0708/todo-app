@@ -1,0 +1,26 @@
+.crossedLine {
+    text-decoration: line-through;
+}
+
+.liBase {
+    cursor: pointer;
+    font-size: 18px;
+    color: #282c3f;
+    margin: 8px 16px;
+    padding: 8px;
+    text-align: left;
+    background-color: #f0f0f0;
+    user-select: none;
+}
+
+.ulBase {
+    width: 80%;
+    margin: auto;
+    min-height: 80%;
+    border-radius: 4px;
+    padding: 8px;
+}
+
+.listWrapper {
+    height: 90%
+}
